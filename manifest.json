@@ -1,11 +1,11 @@
 {
- "name": "CMA MCQ Bank \u2013 Aditya Sharma",
+ "name": "CMA MCQ",
  "short_name": "CMA MCQ",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
- "background_color": "#0B3A7A",
- "theme_color": "#0B3A7A",
+ "background_color": "#0146AD",
+ "theme_color": "#0146AD",
  "icons": [
   {
    "src": "icon-192.png",
